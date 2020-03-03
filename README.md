@@ -1,7 +1,7 @@
 # Web Development Starter
 Super basic web development starter package using parcel.js.
 
-Parcel does all the heavy lifting and requires much less configuration out of the box. Great for creating a learning and crafting environment.
+Parcel does all the heavy lifting and requires no configuration out of the box. Great for learning and crafting.
 
 Created for Cristiana Ortiz
 
