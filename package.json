@@ -1,0 +1,14 @@
+{
+  "name": "web-dev-starter-parceljs",
+  "version": "1.0.0",
+  "description": "Minimal starter using parceljs",
+  "scripts": {
+    "dev": "parcel serve *.html"
+  },
+  "author": "Matt Mayo",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.2"
+  }
+}
